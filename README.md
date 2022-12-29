@@ -35,6 +35,11 @@ mkdir -p .conf/autostart
 nano .conf/autostart/startup.desktop
 
 # paste this into that file
+# use right click: paste
+# in order to save
+# press ctrl + o
+# then enter
+# then ctrl + x
 [Desktop Entry]
 Name=Firefox_Startpage
 Type=Application
