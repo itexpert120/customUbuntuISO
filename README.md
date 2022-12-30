@@ -1,10 +1,6 @@
 # customUbuntuISO
 
-# Steps to reproduce
-
-# in cubic shell
-
-
+## Steps to reproduce in cubic shell
 
 ```bash
 apt update
@@ -45,7 +41,8 @@ Name=Firefox_Startpage
 Type=Application
 Exec=sh -c "firefox /home/$USER/startpage/index.html; $SHELL"
 Terminal=false
-# end of copy```
+# end of copy
+```
 
 ## and done
 
